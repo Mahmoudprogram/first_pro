@@ -9,7 +9,7 @@
 </head>
 
 <body>
-    <h1> <?= "hello php" ?></h1>
+    <?= "hello php" ?>
 </body>
 
 </html>
